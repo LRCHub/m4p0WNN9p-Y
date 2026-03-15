@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フー・セズ",
+  "base_artist": "Selena Gomez & The Scene",
+  "createdAt": "2026-03-15T20:22:14.867119Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Who Says",
+      "artist": "Selena Gomez & The Scene",
+      "has_synced": false,
+      "path": "select/pl_01_Who_Says_Selena_Gomez_&_The_Scene.txt"
+    }
+  ]
+}
